@@ -1,2 +1,2 @@
-# repositorio-1
-creando mi primer repositorio
+!! mi primer repositorio en java script
+!!hola mundo
